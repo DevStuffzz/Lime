@@ -25,3 +25,8 @@ to run your program press Python/Run
 ## Options
 
 Not much here, you can change themes
+
+
+## Notes
+- Can technically open any file, but can only create .py files
+- This is open source, meaning you can easily change the java file to make it run any language
